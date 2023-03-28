@@ -1,1 +1,0 @@
-SELECT * FROM emp_1.emp_1;
